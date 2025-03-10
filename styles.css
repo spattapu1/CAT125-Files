@@ -10,6 +10,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    margin-bottom: 40px;
 }
 
 /* Navigation Box */
